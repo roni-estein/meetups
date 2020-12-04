@@ -59,3 +59,5 @@ Please PR to this repository if you were at the meeting, and you remember topics
 Please contribute points that you or someone brought up. If you source dive and research and show something is true or false, please PR that too.
 
 Please add your Discord/Twitter/Github usernames to the PR under attendees or fact-checkers, and beside the item.
+
+Lastly, I'm not "TWITTER" personality, But please consider following [me](https://twitter.com/roniestein)  to help get this information out to the laravel / livewire community. I rarely tweet. I only tweet code tweets and the odd comment on something funny. Scouts honour.
