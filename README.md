@@ -16,6 +16,6 @@ One person can't remember everything and make this as robust as possible, and I 
  
 | Project | Date |
 | -- | -- |
-| Livewire Meeting 3 | Dec 3, 2020 |
+| [Livewire Meeting 3](https://github.com/roni-estein/meetups/blob/main/livewire-meetup-dec-3-2020.md) | Dec 3, 2020 |
  
  
