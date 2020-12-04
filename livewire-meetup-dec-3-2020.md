@@ -2,13 +2,13 @@
 
 ### Attendees
 | Discord | Twitter | Github |
-|—|—|—|
+|--|--|--|
 | @roni | @roniestein | @roni-estein |
 
 
 ### Fact-Checkers
 | Discord | Twitter | Github |
-|—|—|—|
+|--|--|--|
 
 ## Topics
 
