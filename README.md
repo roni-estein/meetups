@@ -14,8 +14,8 @@ One person can't remember everything and make this as robust as possible, and I 
  
  ## Meetups
  
-| Livewire |
-| -- |
-| Meeting 3 | Dec 3, 2020 |
+| Project | Date |
+| -- | -- |
+| Livewire Meeting 3 | Dec 3, 2020 |
  
  
