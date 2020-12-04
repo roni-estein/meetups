@@ -1,5 +1,5 @@
 # meetup logs
-Just a small repo that e can all easily contribute to log any really juicy bits of info from our monthly Livewire meetups. If we (or someone else in our orbit) do any other meetups, I'd be happy to include them here or someone. 
+Just a small repo that we can all easily contribute to log any really juicy bits of info from our monthly Livewire meetups. If we (or someone else in our orbit) do any other meetups, I'd be happy to include them here or someone. 
 
 Some really great ideas got sparked in my head during the meetup, and for those who couldn't make it, I wanted a place where you could at least find the same spark starting points.
 
