@@ -48,7 +48,7 @@ Liam runs a livewire newsletter; it's awesome and useful. If you want to contrib
 	- Forced device logout via session and ideas on where it could be used
 	- Teams are weak sauce.
 	- Can only belong to one team (I haven't verified this)
-		- $user->currentTeam I think people said, but if that were true, it would imply that the user could actually belong to many teams at a time but only access data for one team at a time, which for me is actually fine, and not weak sauce as it were. Will dig deeper between project; however, other people are free to discuss and improve this.
+		- $user->currentTeam I think people said, but if that were true, it would imply that the user could actually belong to many teams at a time but only access data for one team at a time, which for me is actually fine, and not weak sauce as it were. Will dig deeper between projects; however, other people are free to discuss and improve this.
 - Breeze
 	- No teams.
 	- No default Livewire setup; not an issue takes 2 seconds, but I'll cover that in a video.
