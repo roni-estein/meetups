@@ -3,24 +3,26 @@
 ### Attendees
 | Discord | Twitter | Github |
 |--|--|--|
-| @roni | @roniestein | @roni-estein |
+| roni#2062 | [@roniestein](https://twitter.com/roniestein) | [@roni-estein](https://github.com/roni-estein) |
+| danharrin#7846 | [@danjharrin](https://twitter.com/danharrin) | [@danharrin](https://github.com/danharrin) |
 
 
 ### Fact-Checkers
 | Discord | Twitter | Github |
 |--|--|--|
+| danharrin#7846 | [@danjharrin](https://twitter.com/danharrin) | [@danharrin](https://github.com/danharrin) |
 
 ## Topics
 
-#### Updates to Livewire,
- @liam's contribution to the alpine entangle side
+#### Updates to Livewire
+- Liam's contribution to the alpine entangle side
 
 #### JSON fields manipulating them searching on them 
 - using DTO’s both 
 	- Spatie
-	- Jess archer
+	- Jess Archer
 
-#### Tall Forms
+#### TALL Forms
 - Updates to tall forms
 - Tina has put out some "good" YouTube videos
 	- These focus on using tall forms from someone with amazing skill and expertise
@@ -38,19 +40,19 @@ Liam runs a livewire newsletter; it's awesome and useful. If you want to contrib
 #### Hacks for optimizing search results in JSON and larger text fields
 - We spoke at length on JSON and text fields on several projects. Tina @stockholm on the discord server brought up a great idea about making a search text field on your table and a related search keys table for your non "easily searchable" fields. You could manually update your search keys every time you update your data or make an observer that automatically does it for you on model update. 
 
-#### Breeze Vs. Jetstream
-- Discussion on what the differences were
+#### Breeze vs. Jetstream
+- Discussion on what the differences were.
 - We didn't dive code.
 - Jetstream
 	- Teams
 	- Forced device logout via session and ideas on where it could be used
 	- Teams are weak sauce.
 	- Can only belong to one team (I haven't verified this)
-		- User->currentTeam I think people said, but if that were true, it would imply that the user could actually belong to many teams at a time but only access data for one team at a time, which for me is actually fine, and not weak sauce as it were. Will dig deeper between project; however, other people are free to discuss and improve this.
+		- $user->currentTeam I think people said, but if that were true, it would imply that the user could actually belong to many teams at a time but only access data for one team at a time, which for me is actually fine, and not weak sauce as it were. Will dig deeper between project; however, other people are free to discuss and improve this.
 - Breeze
 	- No teams.
-	- No default livewire setup; not an issue takes 2 seconds, but I'll cover that in a video.
-	- Everything is published right there into your app, and it's like laravel/ui with TailwindCSS.
+	- No default Livewire setup; not an issue takes 2 seconds, but I'll cover that in a video.
+	- Everything is published right there into your app, and it's like laravel/ui with Tailwind CSS.
 	
 ## Contributing
 
@@ -58,6 +60,6 @@ Please PR to this repository if you were at the meeting, and you remember topics
 
 Please contribute points that you or someone brought up. If you source dive and research and show something is true or false, please PR that too.
 
-Please add your Discord/Twitter/Github usernames to the PR under attendees or fact-checkers, and beside the item.
+Please add your Discord/Twitter/GitHub usernames to the PR under attendees or fact-checkers, and beside the item.
 
-Lastly, I'm not "TWITTER" personality, But please consider following [me](https://twitter.com/roniestein)  to help get this information out to the laravel / livewire community. I rarely tweet. I only tweet code tweets and the odd comment on something funny. Scouts honour.
+Lastly, I'm not "TWITTER" personality, But please consider following [me](https://twitter.com/roniestein)  to help get this information out to the Laravel / Livewire community. I rarely tweet. I only tweet code tweets and the odd comment on something funny. Scouts honour.
