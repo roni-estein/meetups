@@ -47,4 +47,4 @@ Possible speakers for a Livewire meetup
 - discord bot 
 	- a way to organize questions and answers
 	- Dan will set something up (and describe it here)
-- 
+- email suites
