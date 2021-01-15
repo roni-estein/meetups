@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/8517475/104668213-4c023780-569d-11eb-87a4-d1da9e2cddd3.jpg"></p>
+
 # meetup logs
 Just a small repo that we can all easily contribute to log any really juicy bits of info from our monthly Livewire meetups. If we (or someone else in our orbit) do any other meetups, I'd be happy to include them here or someone. 
 
